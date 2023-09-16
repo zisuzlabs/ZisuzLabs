@@ -2642,7 +2642,7 @@ button:disabled,
     -webkit-transition: opacity 0.2s ease-in-out;
     -ms-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
-    background: url("assets/css/images/overlay.png");
+    background: url("css/images/overlay.png");
     background: rgba(24, 24, 24, 0.75);
     height: 100%;
     opacity: 0;
@@ -2657,7 +2657,7 @@ button:disabled,
     -webkit-transition: opacity 0.2s ease-in-out;
     -ms-transition: opacity 0.2s ease-in-out;
     transition: opacity 0.2s ease-in-out;
-    background-image: url("assets/css/images/arrow.svg");
+    background-image: url("css/images/arrow.svg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 85%;
@@ -3205,7 +3205,7 @@ body.is-touch #banner {
 
 .poptrox-popup .nav-next:before,
 .poptrox-popup .nav-previous:before {
-    background: url("assets/css/images/arrow.svg");
+    background: url("css/images/arrow.svg");
     content: '';
     height: 64px;
     margin: -32px 0 0 0;
@@ -3271,7 +3271,7 @@ body.is-touch #banner {
 }
 
 .poptrox-popup .closer:before {
-    background: url("assets/css/images/close.svg") center center;
+    background: url("css/images/close.svg") center center;
     border-radius: 100%;
     box-shadow: inset 0 0 0 2px #fff;
     color: #fff !important;
