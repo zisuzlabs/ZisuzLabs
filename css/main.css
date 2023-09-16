@@ -2938,7 +2938,7 @@ body.landing .dropotron.level-0:before {
     margin-left: -0.5em;
 }
 
-#banner {
+/* #banner {
     padding: 11em 0 8em 0;
     background-attachment: scroll, fixed;
     background-image: url("/css/images/overlay.png"), url("../images/banner.png");
@@ -2946,7 +2946,7 @@ body.landing .dropotron.level-0:before {
     background-size: cover;
     line-height: 2;
     text-align: center;
-}
+} */
 
 #banner h2 {
     color: #ffffff;
