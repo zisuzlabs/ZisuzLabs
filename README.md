@@ -5,7 +5,7 @@
 
 ##### Design Consulting and Engineering Agency
 
-At Zisuz Labs, we are on a mission to revolutionize industries and create innovative solutions that shape the future. As a leading design consulting and engineering agency, we specialize in inventio, product development, marketing, and consulting. With our expertise, we empower our clients to bring their ideas to life and make a lasting impact in their respective fields.
+At Zisuz Labs, we are on a mission to revolutionize industries and create innovative solutions that shape the future. As a leading design consulting and engineering agency, we specialize in invention, product development, marketing, and consulting. With our expertise, we empower our clients to bring their ideas to life and make a lasting impact in their respective fields.
 
 Explore Our Services:
 
